@@ -1,0 +1,24 @@
+* {
+  font-family: 'Montserrat';
+}
+.message-list{
+  position: absolute;
+  display: column;
+  height: 100px;
+  letter-spacing: normal;
+}
+.message{
+  margin: 30px;
+  padding: 15px;
+  color: rgb(12, 2, 30);
+}
+.message-text{
+position: relative;
+background-color:rgb(12, 2, 30);
+color: white;
+border-radius: 30px;
+font-size: 30px;
+align-items: center;
+font-family: sans-serif
+
+}
